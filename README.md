@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+About Me<br><br>Machine Learning Engineer specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Computer Vision. Experienced in building end-to-end AI systems, including multimodal RAG chatbots and YOLO-based object detection pipelines.<br><br>Skilled in Python, TensorFlow, OpenCV, and modern LLM frameworks such as LangChain and LangGraph. I design scalable ML pipelines, implement semantic search using vector databases (FAISS, Pinecone), and deploy AI applications using AWS, Docker, and CI/CD.<br><br>My work focuses on transforming research-driven AI concepts into practical, production-ready solutions, including real-time computer vision systems and intelligent conversational agents.<br><br>Core Expertise<br><br>Machine Learning & Deep Learning<br><br>Generative AI & Large Language Models (LLMs)<br><br>Retrieval-Augmented Generation (RAG) Systems<br><br>Computer Vision & Object Detection (YOLO)<br><br>Multimodal AI Systems<br><br>Tech Stack<br><br>Languages<br><br>Python, SQL, C, R<br><br>AI / ML Frameworks<br><br>TensorFlow<br><br>Scikit-learn<br><br>OpenCV<br><br>LangChain<br><br>LangGraph<br><br>Data & ML Tools<br><br>Pandas<br><br>NumPy<br><br>Matplotlib<br><br>Seaborn<br><br>Vector Databases<br><br>FAISS<br><br>Pinecone<br><br>Cloud & DevOps<br><br>AWS (EC2, S3, Lambda, IAM, VPC)<br><br>Docker<br><br>CI/CD<br><br>FastAPI<br><br>LLM Ecosystem<br><br>GPT Models<br><br>Ollama (Local LLMs)<br><br>Sentence Transformers<br><br>Prompt Engineering<br><br>Current Focus<br><br>Building Agentic AI workflows<br><br>Developing Multimodal RAG systems<br><br>Deploying real-time AI applications<br><br>Optimizing local LLM inference pipelines<br><br>Email: riteshpatil702811@gmail.com<br><br>Location: Pune, India
 
-<!--
-**riteshpp05/riteshpp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=riteshpp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=riteshpp05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=riteshpp05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
