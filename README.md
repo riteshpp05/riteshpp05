@@ -4,11 +4,6 @@
 
 **Machine Learning Engineer · Generative AI · RAG Systems · Computer Vision**
 
-[![Email](https://img.shields.io/badge/Email-riteshpatil702811%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshpatil702811@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ritesh--Patil-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/Ritesh-Patil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh--Patil-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritesh-Patil)
-[![Location](https://img.shields.io/badge/Pune%2C%20India-gray?style=flat-square)](#)
-
 </div>
 
 ---
