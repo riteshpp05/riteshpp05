@@ -200,11 +200,7 @@ Intelligent document scanning and data extraction pipeline with automated proces
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riteshpp05/riteshpp05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riteshpp05/riteshpp05/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/riteshpp05/riteshpp05/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshpp05&theme=github_dark" width="95%" alt="Contribution Graph" />
 
 </div>
 
