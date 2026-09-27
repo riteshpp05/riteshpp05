@@ -1,248 +1,228 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:161b22&text=Ritesh%20Patil&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Think&descSize=16&descAlignY=68&descColor=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:f6f8fa,100:d0d7de&text=Ritesh%20Patil&fontSize=48&fontColor=1f2328&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Think&descSize=16&descAlignY=68&descColor=656d76">
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:161b22&text=Ritesh%20Patil&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Think&descSize=16&descAlignY=68&descColor=8b949e">
-</picture>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-patil-32946b26b/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshpatil702811@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/riteshpp05/ritesh-tech-portfolio)
-[![Oracle Certified](https://img.shields.io/badge/Oracle_OCI_GenAI-f80000?style=flat-square&logo=oracle&logoColor=white)](#-certifications)
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Hey%2C+I'm+Ritesh+Patil+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+GenAI+%E2%80%A2+RAG+Systems+%E2%80%A2+Enterprise+AI" alt="Typing SVG" />
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-patil-32946b26b/)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshpatil702811@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riteshpp05)
+[![Oracle](https://img.shields.io/badge/Oracle_OCI_GenAI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#-certifications)
 
 </div>
 
-<br>
+---
 
-```
-I build AI systems that work in the real world — not just in notebooks.
-```
+### 🧠 About Me
 
-I'm an AI Engineer specializing in **Generative AI, LLM/RAG systems, and enterprise AI solutions**. My work spans the full lifecycle: from architecting retrieval pipelines and training vision models to deploying containerized AI services on cloud infrastructure. Currently engineering **enterprise-grade applications on SAP BTP** while building **Agentic AI** and **financial intelligence platforms** with local LLMs.
+> *I build AI systems that work in the real world — not just in notebooks.*
 
-<br>
+I'm an **AI Engineer** specializing in **Generative AI**, **LLM/RAG systems**, and **enterprise-grade AI solutions**. I work across the full lifecycle — from designing retrieval pipelines and training vision models to deploying containerized AI services on cloud infrastructure.
 
-## ◆ What I'm Building Now
+Currently engineering **enterprise applications on SAP BTP** at Abhiyanta India Solutions while building **Agentic AI platforms** and **financial intelligence systems** powered by local LLMs.
+
+---
+
+### 🔥 What I'm Building Right Now
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ CEO-Tower
-**Enterprise GenAI & Financial Intelligence Platform**
+**🏗️ CEO-Tower — GenAI Financial Intelligence**
 
-AI-powered financial analytics engine with real-time exception detection, AI-driven proposal generation, and Zoho Books integration — powered by local LLMs via Llama.cpp and RAG pipelines.
+Enterprise AI platform with real-time financial analytics, exception detection, and AI-driven proposal generation. Integrates Zoho Books APIs, powered by local LLMs (Llama.cpp) and RAG pipelines.
 
-`Python` `FastAPI` `Llama.cpp` `RAG` `Supabase` `Docker`
+`Python` `FastAPI` `Flask` `Llama.cpp` `RAG` `Supabase` `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Master Data Governance Platform
-**Enterprise MDR on SAP BTP**
+**🏢 Master Data Governance — SAP BTP**
 
-Metadata-driven, table-agnostic architecture supporting 15+ master data entities with fuzzy duplicate detection (Levenshtein, Dice, Soundex), multi-stage approval workflows, and RBAC governance.
+Metadata-driven, table-agnostic MDR platform supporting 15+ enterprise data entities. Features fuzzy duplicate detection (Levenshtein, Dice, Soundex), multi-stage approval workflows, and full RBAC governance.
 
-`SAP CAP` `Node.js` `SAP HANA Cloud` `OData V4` `XSUAA`
+`SAP CAP` `Node.js` `SAP HANA Cloud` `OData V4` `XSUAA` `BPA`
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## ◆ Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`Multimodal-RAG`](https://github.com/riteshpp05/Multimodal-RAG)
-Offline multimodal RAG system with zero cloud dependency. Semantic retrieval across PDFs and OCR-extracted data using Ollama, FAISS, and stateful multi-turn memory via LangGraph + SQLite.
+**[🔗 Multimodal-RAG](https://github.com/riteshpp05/Multimodal-RAG)**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0099FF?style=flat-square&logo=meta&logoColor=white)
+Fully offline multimodal RAG system — zero cloud dependency. Semantic retrieval across PDFs & OCR-extracted data using **Ollama (Llama 2 7B)**, **FAISS** vector search, and stateful multi-turn conversational memory via **LangGraph + SQLite**.
+
+`Ollama` `LangGraph` `FAISS` `SQLite` `OCR`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`Medical-chatbot`](https://github.com/riteshpp05/Medical-chatbot)
-Production RAG pipeline for clinical query resolution over a 637-page medical knowledge base. Sentence Transformer embeddings + Pinecone vector search, orchestrated with LangChain + GPT-4. Deployed on AWS EC2 with Docker & CI/CD.
+**[🔗 Medical-chatbot](https://github.com/riteshpp05/Medical-chatbot)**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Production RAG pipeline for clinical query resolution over a **637-page medical knowledge base**. Sentence Transformer embeddings + Pinecone vector search, orchestrated with **LangChain + GPT-4**. Deployed on **AWS EC2** with Docker & GitHub Actions CI/CD.
+
+`LangChain` `GPT-4` `Pinecone` `AWS` `Docker` `CI/CD`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`GST-Compliance`](https://github.com/riteshpp05/GST-Compliance)
-Automated GST compliance and financial document processing system.
+**[🔗 GST-Compliance](https://github.com/riteshpp05/GST-Compliance)**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+Automated GST compliance and financial document processing system with intelligent data extraction and validation.
+
+`Python` `FastAPI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`Brand-monitor`](https://github.com/riteshpp05/Brand-monitor)
-AI-powered brand monitoring and analytics platform.
+**[🔗 Brand-monitor](https://github.com/riteshpp05/Brand-monitor)**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+AI-powered brand monitoring and analytics platform for real-time brand intelligence and competitive analysis.
+
+`Python` `AI/ML`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`ARIS`](https://github.com/riteshpp05/ARIS)
-AI Research & Intelligence System — an intelligent research assistant.
+**[🔗 ARIS](https://github.com/riteshpp05/ARIS)**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+AI Research & Intelligence System — an intelligent research assistant for automated information gathering and analysis.
+
+`Python` `AI` `NLP`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [`Datasphare-Docs-Scannar`](https://github.com/riteshpp05/Datasphare-Docs-Scannar)
-Intelligent document scanning and data extraction pipeline.
+**[🔗 Datasphare-Docs-Scannar](https://github.com/riteshpp05/Datasphare-Docs-Scannar)**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+Intelligent document scanning and data extraction pipeline with automated processing and structured output generation.
+
+`Python` `OCR` `Document AI`
 
 </td>
 </tr>
 </table>
 
-> **→** See all repositories at [`github.com/riteshpp05?tab=repositories`](https://github.com/riteshpp05?tab=repositories)
-
-<br>
-
-## ◆ Tech Stack
-
-<table>
-<tr>
-<td><b>AI / ML & GenAI</b></td>
-<td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
-<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-</td>
-</tr>
-<tr>
-<td><b>Retrieval & Search</b></td>
-<td>
-<img src="https://img.shields.io/badge/FAISS-0099FF?style=flat-square&logo=meta&logoColor=white" alt="FAISS">
-<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
-<img src="https://img.shields.io/badge/Vector_DBs-4A154B?style=flat-square" alt="Vector DBs">
-<img src="https://img.shields.io/badge/Semantic_Search-0ea5e9?style=flat-square" alt="Semantic Search">
-</td>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="SageMaker">
-</td>
-</tr>
-<tr>
-<td><b>SAP & Enterprise</b></td>
-<td>
-<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP">
-<img src="https://img.shields.io/badge/SAP_CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP CAP">
-<img src="https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA Cloud">
-<img src="https://img.shields.io/badge/OData_V4-e3008c?style=flat-square" alt="OData V4">
-</td>
-</tr>
-<tr>
-<td><b>APIs & Frameworks</b></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-</td>
-</tr>
-</table>
-
-<br>
-
-## ◆ Experience
-
-```
-AI Engineer Intern        →  Abhiyanta India Solutions       Jun 2026 – Present
-ML Engineer               →  Automation Teknix               Nov 2025 – Mar 2026
-Software Engineer Intern  →  Jnana Prabodhini                Jan 2025 – Jun 2025
-```
-
-<br>
-
-## ◆ Certifications
-
-🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — LLM, RAG
-
-<br>
-
-## ◆ GitHub Activity
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riteshpp05&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riteshpp05&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=656d76&icon_color=0969da&ring_color=0969da&hide_title=true&include_all_commits=true&count_private=true">
-  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=riteshpp05&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&include_all_commits=true&count_private=true">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpp05&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpp05&layout=compact&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=656d76&langs_count=6">
-  <img height="165" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpp05&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riteshpp05&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riteshpp05&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=1f2328&sideLabels=656d76&currStreakNum=1f2328&sideNums=656d76&dates=656d76">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpp05&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e">
-</picture>
+**[📂 View All Repositories →](https://github.com/riteshpp05?tab=repositories)**
 
 </div>
 
-<br>
+---
+
+### 🛠️ Tech Stack
+
+**AI / ML & Generative AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Vector Databases & Retrieval**
+
+![FAISS](https://img.shields.io/badge/FAISS-0099FF?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**SAP & Enterprise**
+
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData_V4-E3008C?style=for-the-badge&logoColor=white)
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Engineer Intern** | Abhiyanta India Solutions | `Jun 2026 – Present` |
+| **Machine Learning Engineer** | Automation Teknix | `Nov 2025 – Mar 2026` |
+| **Software Engineer Intern** | Jnana Prabodhini | `Jan 2025 – Jun 2025` |
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **P.G. Diploma in AI & ML** | MIT-WPU | `2024 – 2025` |
+| **BSc Computer Science** | Abasaheb Garware College | `2020 – 2023` |
+
+---
+
+### 🏅 Certifications
+
+- 🏆 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — LLM, RAG
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-```
-Open to freelance & full-time opportunities in AI Engineering, GenAI, and Enterprise AI.
-```
+<img src="https://github-readme-stats.vercel.app/api?username=riteshpp05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpp05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 
-<a href="mailto:riteshpatil702811@gmail.com">
-<img src="https://img.shields.io/badge/Let's_Talk-riteshpatil702811%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<br/><br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpp05&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
-<img src="https://komarev.com/ghpvc/?username=riteshpp05&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views">
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshpp05&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Activity Graph" />
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f6f8fa,100:d0d7de&section=footer">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer">
-</picture>
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+**Open to freelance & full-time opportunities in AI Engineering, GenAI, and Enterprise AI.**
+
+[![Email Me](https://img.shields.io/badge/📧_riteshpatil702811@gmail.com-0ea5e9?style=for-the-badge)](mailto:riteshpatil702811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-patil-32946b26b/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=riteshpp05&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+
+</div>
