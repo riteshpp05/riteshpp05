@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Hey%2C+I'm+Ritesh+Patil+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+GenAI+%E2%80%A2+RAG+Systems+%E2%80%A2+Enterprise+AI" alt="Typing SVG" />
-
----
+# Hey, I'm Ritesh Patil 👋
+### AI Engineer • GenAI • RAG Systems • Enterprise AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-patil-32946b26b/)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshpatil702811@gmail.com)
@@ -26,95 +24,41 @@ Currently engineering **enterprise applications on SAP BTP** at Abhiyanta India 
 
 ### 🔥 What I'm Building Right Now
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ CEO-Tower — GenAI Financial Intelligence**
-
+#### 🏗️ CEO-Tower — GenAI Financial Intelligence
 Enterprise AI platform with real-time financial analytics, exception detection, and AI-driven proposal generation. Integrates Zoho Books APIs, powered by local LLMs (Llama.cpp) and RAG pipelines.
-
 `Python` `FastAPI` `Flask` `Llama.cpp` `RAG` `Supabase` `Docker`
 
-</td>
-<td width="50%" valign="top">
-
-**🏢 Master Data Governance — SAP BTP**
-
+#### 🏢 Master Data Governance — SAP BTP
 Metadata-driven, table-agnostic MDR platform supporting 15+ enterprise data entities. Features fuzzy duplicate detection (Levenshtein, Dice, Soundex), multi-stage approval workflows, and full RBAC governance.
-
 `SAP CAP` `Node.js` `SAP HANA Cloud` `OData V4` `XSUAA` `BPA`
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🔗 Multimodal-RAG](https://github.com/riteshpp05/Multimodal-RAG)**
-
+#### [🔗 Multimodal-RAG](https://github.com/riteshpp05/Multimodal-RAG)
 Fully offline multimodal RAG system — zero cloud dependency. Semantic retrieval across PDFs & OCR-extracted data using **Ollama (Llama 2 7B)**, **FAISS** vector search, and stateful multi-turn conversational memory via **LangGraph + SQLite**.
-
 `Ollama` `LangGraph` `FAISS` `SQLite` `OCR`
 
-</td>
-<td width="50%" valign="top">
-
-**[🔗 Medical-chatbot](https://github.com/riteshpp05/Medical-chatbot)**
-
+#### [🔗 Medical-chatbot](https://github.com/riteshpp05/Medical-chatbot)
 Production RAG pipeline for clinical query resolution over a **637-page medical knowledge base**. Sentence Transformer embeddings + Pinecone vector search, orchestrated with **LangChain + GPT-4**. Deployed on **AWS EC2** with Docker & GitHub Actions CI/CD.
-
 `LangChain` `GPT-4` `Pinecone` `AWS` `Docker` `CI/CD`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🔗 GST-Compliance](https://github.com/riteshpp05/GST-Compliance)**
-
+#### [🔗 GST-Compliance](https://github.com/riteshpp05/GST-Compliance)
 Automated GST compliance and financial document processing system with intelligent data extraction and validation.
-
 `Python` `FastAPI`
 
-</td>
-<td width="50%" valign="top">
-
-**[🔗 Brand-monitor](https://github.com/riteshpp05/Brand-monitor)**
-
+#### [🔗 Brand-monitor](https://github.com/riteshpp05/Brand-monitor)
 AI-powered brand monitoring and analytics platform for real-time brand intelligence and competitive analysis.
-
 `Python` `AI/ML`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🔗 ARIS](https://github.com/riteshpp05/ARIS)**
-
+#### [🔗 ARIS](https://github.com/riteshpp05/ARIS)
 AI Research & Intelligence System — an intelligent research assistant for automated information gathering and analysis.
-
 `Python` `AI` `NLP`
 
-</td>
-<td width="50%" valign="top">
-
-**[🔗 Datasphare-Docs-Scannar](https://github.com/riteshpp05/Datasphare-Docs-Scannar)**
-
+#### [🔗 Datasphare-Docs-Scannar](https://github.com/riteshpp05/Datasphare-Docs-Scannar)
 Intelligent document scanning and data extraction pipeline with automated processing and structured output generation.
-
 `Python` `OCR` `Document AI`
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
